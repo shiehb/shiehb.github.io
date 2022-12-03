@@ -444,14 +444,6 @@ p {
 #footer .social-item:hover img {
 	filter: grayscale(0);
 }
-#footer h3 {
-	color: blue;
-	font-weight: 1000;
-	font-size: 1.8rem;
-	letter-spacing: 0.1rem;
-	margin-top: 15px;
-	margin-bottom: 5px;
-}
 #footer p {
 	color: white;
 	font-size: 1.3rem;
