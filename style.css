@@ -284,12 +284,6 @@ p {
 #about .col-right p {
 	margin-bottom: 5px;
 }
-#about .col-right .cta {
-	color: black;
-	margin-bottom: 50px;
-	padding: 10px 20px;
-	font-size: 2rem;
-}
 #about .col-left .about-img {
 	height: 100%;
 	width: 100%;
